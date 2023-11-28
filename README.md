@@ -10,5 +10,5 @@ Práctica: Implementación del motor de plantillas EJS
 
 ## Authors
 - Robinson Aguilar
-- Ronaldo Perez
+- Ronaldo Pérez Díaz
 
